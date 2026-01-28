@@ -6,7 +6,7 @@ import json
 import os
 
 # ========= CONFIG =========
-TOKEN = os.getenv("DISCORD_TOKEN")
+TOKEN = os.getenv("TOKEN")
 GUILD_ID = 1462083992865214484
 # ==========================
 intents = discord.Intents.default()
